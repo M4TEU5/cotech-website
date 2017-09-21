@@ -1,5 +1,6 @@
 ---
 name: Outlandish
+coop set-up: Worker Co-op. [9 Members. 3 Outlanders. +15 collaborators.]
 website: http://outlandish.com
 email: hello@outlandish.com
 twitter: outlandish
